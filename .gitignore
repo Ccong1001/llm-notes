@@ -1,2 +1,3 @@
+.gitignore
 /Volumes/APFS/workspace/llm/jupyter-remote.sh
 /Volumes/APFS/workspace/llm/transformer/convert_md_to_ipynb.py
